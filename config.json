@@ -1,0 +1,15 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:@localhost/project",
+		"prod_uri":"mysql://root:@localhost/project",
+		"fb_url":"https://facebook.com/__",
+		"tw_url":"https://twitter.com/___",
+		"git_url":"https://github.com/___",
+		"gmail_user":"___@gmail.com",
+		"gmail_password":"________"
+
+
+	}
+}
